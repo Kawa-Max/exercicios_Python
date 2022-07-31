@@ -6,7 +6,7 @@ o Sistema só vai ter 2 OPÇÕES: CADASTRAR uma nova pessoa e LISTAR todas as pe
 
 """
 
-from exercicios.ex115.usaveis import *
+from usaveis import *
 from time import sleep
 
 while True:
